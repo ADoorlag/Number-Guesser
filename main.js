@@ -1,6 +1,6 @@
 //game values
-let min = 10,
-  max = 20,
+let min = 1,
+  max = 99,
   winningNumber = getRandomNum(min, max),
   guessesLeft = 5;
 
